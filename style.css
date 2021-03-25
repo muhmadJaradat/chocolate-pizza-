@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+
+body{
+    background-color: whitesmoke;
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+header nav div.leftside {
+  float:left;
+   width: 50%;
+   
+}
+
+
+nav{
+    /* border-bottom: solid 10px ;
+    padding: 10px;
+    border-image: url(img/hr-img.png) 27 0 / 10px 30px  round space;; */
+    margin-top: 0px;
+    width: 100%;
+   position: absolute;
+   right: 5%;
+   top: 1%;
+}
+header  div.leftside img{
+    float:left;
+   
+   
+  
+}
+header  div.leftside p{
+    float:left;
+   margin-left: 10px;
+    margin-top: 0px;
+    padding-top: 0;
+    font-size: 12px;
+    font-weight: lighter;
+  
+}
+p span {
+    font-family: 'Courgette', cursive;
+    font-weight:bold;
+    font-size: 25px;
+   
+}
+
+header nav div.rightside  {
+    float:right;
+    margin-top: 15px;
+    
+   
+}
+
+.i6th {
+    margin-left: 10px;
+}
+main{
+    clear: both;
+    padding-top: 100px;
+    
+    width: 100%;
+    margin: 0 auto;
+    
+}
+main section#photoSec img{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+section#photoSec p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: silver;
+    font-size: 12px;
+    margin-bottom: 60px;
+}
+section#photoSec span {
+color: black;
+font-family:'Times New Roman', Times, serif;
+font-size: 40px;
+font-weight:bold;
+}
+section#photoSec{
+    position: relative;
+}
+.mainRight  {
+
+    position:absolute;
+    right: 1%;
+    top: 3%;
+}
+.mainContent p {
+    margin-bottom: 30px;
+text-indent: 30px;
+font-size: 25px;
+color: #5f5f5ffb;
+}
+
+.list ul {
+    float: left;
+    width: 100%;
+    list-style: none;
+    
+    
+}
+section.mainBottom {
+    clear: both;
+}
+#leftList {
+    float: left;
+    list-style: none;
+    width: 50%;
+}
+#rightList{
+
+}
+form {
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 2%;
+    
+}
+.form {
+    background-image: url(https://github.com/LTUC/amman-201d19/blob/master/class-10/lab-a/lab-assets/list-bg.png?raw=true);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
